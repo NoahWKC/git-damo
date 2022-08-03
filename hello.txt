@@ -11,4 +11,4 @@ hello one hello git!
 hello one hello git!
 hello one hello git!
 hello one hello git!
-hello one hello git!
+hello one hello git! hot-fix test
